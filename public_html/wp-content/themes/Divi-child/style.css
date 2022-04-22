@@ -1,0 +1,25 @@
+/* 
+ Theme Name:     Bare bones for Divi
+ Author:         Divi theme examples
+ Author URI:     http://www.divithemeexamples.com 
+ Template:       Divi
+ Version:        1.0 
+*/ 
+
+
+/* ----------- PUT YOUR CUSTOM CSS BELOW THIS LINE -- DO NOT EDIT ABOVE THIS LINE --------------------------- */ 
+
+
+.underline { width: 50px; height: 6px; background-color: #0071BC; margin: 15px 0px 40px 0px;}
+.underline-white { width: 50px; height: 6px; background-color: #fff; margin: 15px 0px 40px 0px;}
+.floater { float: right !important; }
+
+#footer-info { font-family: montserrat !important; }
+
+.et-pb-contact-message {
+	
+    color: white !important;
+    font-size:  20px !important;
+    font-weight: 300 !important;
+}
+
