@@ -1,0 +1,38 @@
+{
+    "hostname": "wsbackups2.lhr.stackcp.net",
+    "date": "2022-04-21 13:09:38",
+    "key": "542398f06607d325e2bde298d438d858448704cb",
+    "virtual_host_id": 1260475,
+    "databases": [
+        {
+            "MySqlGrantId": 2296520,
+            "VirtualHostId": 1260475,
+            "MySqlDatabaseId": 1949501,
+            "MySqlUserId": 2165325,
+            "Privileges": [
+                "SELECT",
+                "INSERT",
+                "UPDATE",
+                "DELETE",
+                "CREATE",
+                "DROP",
+                "INDEX",
+                "ALTER",
+                "LOCK TABLES",
+                "EXECUTE",
+                "CREATE VIEW",
+                "SHOW VIEW",
+                "CREATE ROUTINE",
+                "ALTER ROUTINE",
+                "CREATE TEMPORARY TABLES"
+            ],
+            "Owner": "20ihostingprovision",
+            "Comments": null,
+            "DatabaseName": "wordpress-313836cb2f",
+            "FloatingName": "sdb-h.hosting.stackcp.net",
+            "Username": "wordpress-313836cb2f",
+            "MySQLGrant": "GRANT SELECT, INSERT, UPDATE, DELETE, CREATE, DROP, INDEX, ALTER, LOCK TABLES, EXECUTE, CREATE VIEW, SHOW VIEW, CREATE ROUTINE, ALTER ROUTINE, CREATE TEMPORARY TABLES ON `wordpress-313836cb2f`.* TO 'wordpress-313836cb2f'@'%' IDENTIFIED BY PASSWORD '*233C02191F31EFF2F99C60B4A0C12F5F2D72345A';"
+        }
+    ],
+    "v": 2
+}
